@@ -20,7 +20,7 @@ jobs:
         with:
           hugo-version: "0.89.1"
       - name: Generate Static Content
-        run: hugo --gc --minify
+        run: hugo --gc --minify -c ./content
       - name: Deploy to Netlify
         uses: nwtgck/actions-netlify@v1.2.2
         with:
