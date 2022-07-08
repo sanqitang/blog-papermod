@@ -4,16 +4,15 @@ on:
   push:
     branches:
       - main
-
 jobs:
-build:
-  name: Build static artifacts using Hugo
-  runs-on: ubuntu-18.04
-  steps:
-    - uses: actions/checkout@v2
-      with:
-        submodules: true  # Fetch Hugo themes (true OR recursive)
-        fetch-depth: 50
+  build:
+    - name: Build static artifacts using Hugo
+      runs-on: ubuntu-18.04
+      steps:
+      uses: actions/checkout@v2
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+            fetch-depth: 50
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
