@@ -1,6 +1,6 @@
 ---
 title: "2022 07 05 a Sample Post"
-date: 2022-07-05T21:10:21-07:00
+date: "2022-07-05"
 slug:
 category:
 summary: This is a sample post
