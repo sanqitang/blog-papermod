@@ -6,8 +6,7 @@ on:
       - main
 
 jobs:
-  build:
-  name: Build static artifacts using Hugo
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -18,47 +17,21 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2.5.0
         with:
-          hugo-version: "0.101.0"
+          hugo-version: "0.89.1"
       - name: Generate Static Content
-        run: hugo --gc --minify
-      - name: Upload public directory # Upload /public artifact if on `main` branch
-      uses: actions/upload-artifact@v2
-      if: github.ref == 'refs/heads/main'
-      with:
-        name: public
-        path: public/
-      retention-days: 1
-
-    #  - name: Deploy to Netlify
-    #    uses: nwtgck/actions-netlify@v1.2.2
-    #    with:
-    #      publish-dir: "./public"
-    #      production-branch: dev
-    #      github-token: ${{ secrets.GITHUB_TOKEN }}
-    #      deploy-message: "Deployed with GitHub Actions"
-    #      netlify-config-path: ./netlify.toml
-    #      github-deployment-environment: "Netlify Deploy"
-    #      enable-pull-request-comment: false
-    #     enable-commit-comment: false
-    #    env:
-    #      NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-    #      NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-    #    timeout-minutes: 1
-
-  deploy:
-    name: Deploy to Netlify
-    needs: build
-    runs-on:  ubuntu-18.04
-    steps:
-    - name: Download public directory
-      uses: actions/download-artifact@v2
-      with:
-        name: public
-        path: public/
-    - name: Publish
-      uses: netlify/actions/cli@master
-      with:
-        args: deploy -p --dir=public
-      env:
-        NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-        NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        run: hugo --minify
+      - name: Deploy to Netlify
+        uses: nwtgck/actions-netlify@v1.2.2
+        with:
+          publish-dir: "./public"
+          production-branch: main
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          deploy-message: "Deployed with GitHub Actions"
+          netlify-config-path: ./netlify.toml
+          github-deployment-environment: "Netlify Deploy"
+          enable-pull-request-comment: false
+          enable-commit-comment: false
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+        timeout-minutes: 1
