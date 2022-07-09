@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Somraj Saha</title>
+    <link>https://blog-papermod.netlify.app/posts/</link>
+    <description>Recent content in Posts on Somraj Saha</description>
+    <image>
+      <url>https://blog-papermod.netlify.app/profile-pic.jpg</url>
+      <link>https://blog-papermod.netlify.app/profile-pic.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Oct 2021 13:10:41 +0530</lastBuildDate><atom:link href="https://blog-papermod.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Create Custom Keymaps in Neovim With Lua</title>
+      <link>https://blog-papermod.netlify.app/posts/create-custom-keymaps-in-neovim-using-lua/</link>
+      <pubDate>Tue, 12 Oct 2021 13:10:41 +0530</pubDate>
+      
+      <guid>https://blog-papermod.netlify.app/posts/create-custom-keymaps-in-neovim-using-lua/</guid>
+      <description>Learn to create custom key bindings in Neovim using the optional inbuilt Lua runtime. And ditch the archaic &amp;amp; cryptic Vimscript in Lua&amp;#39;s favour!</description>
+    </item>
+    
+    <item>
+      <title>Vim or Neovim? Here&#39;s Why You Should Use the Latter</title>
+      <link>https://blog-papermod.netlify.app/posts/vim-vs-neovim/</link>
+      <pubDate>Thu, 15 Jul 2021 13:10:41 +0530</pubDate>
+      
+      <guid>https://blog-papermod.netlify.app/posts/vim-vs-neovim/</guid>
+      <description>Confused between Vim and/or Neovim? Here are my justifications to convince you to use Neovim instead today!</description>
+    </item>
+    
+    <item>
+      <title>Using GitHub Actions to Deploy a FastAPI Project to Heroku</title>
+      <link>https://blog-papermod.netlify.app/posts/using-github-actions-to-deploy-a-fastapi-project-to-heroku/</link>
+      <pubDate>Wed, 05 May 2021 16:25:28 +0530</pubDate>
+      
+      <guid>https://blog-papermod.netlify.app/posts/using-github-actions-to-deploy-a-fastapi-project-to-heroku/</guid>
+      <description>Heroku makes deployment a piece of cake, but compromises on quality control &amp;amp; best practices. So, this article shows how to use GitHub Actions in tandem with Heroku while maintaining best practices.</description>
+    </item>
+    
+    <item>
+      <title>Google Serverless Infrastructure: A Primer on GCP &amp; Serverless Computing</title>
+      <link>https://blog-papermod.netlify.app/posts/details-of-google-serverless-computing/</link>
+      <pubDate>Mon, 19 Apr 2021 10:50:28 +0530</pubDate>
+      
+      <guid>https://blog-papermod.netlify.app/posts/details-of-google-serverless-computing/</guid>
+      <description>Learn about GCP &amp;amp; it&amp;#39;s serverless computing infrastructure. Learn when to use App Engine, Cloud Functions or Cloud Run on Google Cloud Platform.</description>
+    </item>
+    
+    <item>
+      <title>How to Create an Overpowered Blog With Hugo (As a Wordpress Alternative)</title>
+      <link>https://blog-papermod.netlify.app/posts/blogging-with-hugo-as-an-wordpress-alternative/</link>
+      <pubDate>Sun, 21 Feb 2021 22:57:04 +0530</pubDate>
+      
+      <guid>https://blog-papermod.netlify.app/posts/blogging-with-hugo-as-an-wordpress-alternative/</guid>
+      <description>Create a blog with Hugo Static Site Generator as a Wordpress alternative &amp;amp; with added automation plus other superpowers</description>
+    </item>
+    
+    <item>
+      <title>A Review of Some of the Most Popular Static Site Generators</title>
+      <link>https://blog-papermod.netlify.app/posts/reviewing-popular-static-site-generators/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog-papermod.netlify.app/posts/reviewing-popular-static-site-generators/</guid>
+      <description>A brief review of the popular static site generators. Which one should you use, why &amp;amp; much more.</description>
+    </item>
+    
+    <item>
+      <title>A Standard	&amp; Complete CI/CD Pipeline for Most Python Projects</title>
+      <link>https://blog-papermod.netlify.app/posts/a-standard-ci-cd-pipeline-for-python-projects/</link>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog-papermod.netlify.app/posts/a-standard-ci-cd-pipeline-for-python-projects/</guid>
+      <description>The most complete (yet standard) CI/CD pipeline you&amp;#39;ll ever find for most of your Python projects. Now spend more time on maintaining your project rather than fixing CI/CD issues.</description>
+    </item>
+    
+    <item>
+      <title>Customizing the New Windows Terminal: A Minimalist Approach</title>
+      <link>https://blog-papermod.netlify.app/posts/customizing-windows-terminal-a-minimalist-approach/</link>
+      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog-papermod.netlify.app/posts/customizing-windows-terminal-a-minimalist-approach/</guid>
+      <description>Who needs Linux when you got a fully customized Windows Terminal!</description>
+    </item>
+    
+    <item>
+      <title>ML Engineer vs Data Scientist: Whom Should You Hire?</title>
+      <link>https://blog-papermod.netlify.app/posts/ml-engineer-vs-data-scientists-who-should-you-choose/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog-papermod.netlify.app/posts/ml-engineer-vs-data-scientists-who-should-you-choose/</guid>
+      <description>Not sure if a specific business need of your company requires a Data Scientist or an ML Engineer? Then read ahead to find out more about it.</description>
+    </item>
+    
+    <item>
+      <title>Why/How Should You Treat Your Open-Source Project As a Business</title>
+      <link>https://blog-papermod.netlify.app/posts/treat-your-open-source-project-as-a-business/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog-papermod.netlify.app/posts/treat-your-open-source-project-as-a-business/</guid>
+      <description>Your open-source project is no different from a startup. Consider it as one &amp;amp; ensure its success. Here&amp;#39;s a trivial framework to build upon.</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Vs Traditional Computer Vision Techniques — Which Should You Choose?</title>
+      <link>https://blog-papermod.netlify.app/posts/deep-learning-vs-traditional-techniques-a-comparison/</link>
+      <pubDate>Thu, 13 Aug 2020 23:46:37 +0000</pubDate>
+      
+      <guid>https://blog-papermod.netlify.app/posts/deep-learning-vs-traditional-techniques-a-comparison/</guid>
+      <description>Deep Learning(DL) techniques are beating the human baseline accuracy rates. Media is going haywire about AI being the next big thing. Everyone is writing a tutorial or two about building a startup or a product using DL. So should you board the hype train too?</description>
+    </item>
+    
+    <item>
+      <title>Unveiling Common Misconceptions of “Democratizing” Data Science/Machine Learning</title>
+      <link>https://blog-papermod.netlify.app/posts/unveiling-common-misconceptions-of-democratizing-data-science-machine-learning/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog-papermod.netlify.app/posts/unveiling-common-misconceptions-of-democratizing-data-science-machine-learning/</guid>
+      <description>Are you aspiring to be a Data Scientist or a Machine Learning expert? Then allow me to cut through the hype &amp;amp; clear some of the misconceptions you might be already strangled in.</description>
+    </item>
+    
+    <item>
+      <title>Medium Vs Static Site Generators — A Computer Vision Engineer’s Dilemma</title>
+      <link>https://blog-papermod.netlify.app/posts/medium-vs-static-site-generators/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog-papermod.netlify.app/posts/medium-vs-static-site-generators/</guid>
+      <description>The wide array of choices for blogging platforms &amp;amp; tools can be overwhelming. As such, I was confused too, but you don’t have to be, so read ahead.</description>
+    </item>
+    
+    <item>
+      <title>Have a Startup Idea? These 5 Tips Should Help You a Long Way Through Your Journey</title>
+      <link>https://blog-papermod.netlify.app/posts/these-5-tips-should-help-you-with-your-startup-journey/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog-papermod.netlify.app/posts/these-5-tips-should-help-you-with-your-startup-journey/</guid>
+      <description>Consider this list opinionated tips before you set foot onto your AI startup. I assure you a thorough read will give you a better perspective to follow.</description>
+    </item>
+    
+    <item>
+      <title>Domain Knowledge — The Second Most Important Skill to Have as a Data Scientist</title>
+      <link>https://blog-papermod.netlify.app/posts/the-second-most-important-skill-for-a-data-scientist/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog-papermod.netlify.app/posts/the-second-most-important-skill-for-a-data-scientist/</guid>
+      <description>You mightn’t realize it but if you’ve ample years of experience in a very specific domain of expertise, you might be eligible to be part of a Data Science team.</description>
+    </item>
+    
+    <item>
+      <title>Dropping Missing Values? You Probably Shouldn’t.</title>
+      <link>https://blog-papermod.netlify.app/posts/few-reasons-to-not-drop-missing-values/</link>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog-papermod.netlify.app/posts/few-reasons-to-not-drop-missing-values/</guid>
+      <description>Unbeknownst to us, quite often Missing Values contain as much information as just the rest of the data which is why dropping them isn&amp;#39;t always a wise thing to do. This article briefly talks about Missing Values &amp;amp; why you probably should analyze the reasons behind why certain values are missing.</description>
+    </item>
+    
+  </channel>
+</rss>
