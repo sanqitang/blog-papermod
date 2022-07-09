@@ -2,76 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog-papermod.netlify.app/posts/create-custom-keymaps-in-neovim-using-lua/</loc>
+    <loc>https://sanqitang.github.io/posts/create-custom-keymaps-in-neovim-using-lua/</loc>
     <lastmod>2021-10-12T13:10:41+05:30</lastmod>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/posts/</loc>
+    <loc>https://sanqitang.github.io/posts/</loc>
     <lastmod>2021-10-12T13:10:41+05:30</lastmod>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/</loc>
+    <loc>https://sanqitang.github.io/</loc>
     <lastmod>2021-10-12T13:10:41+05:30</lastmod>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/posts/vim-vs-neovim/</loc>
+    <loc>https://sanqitang.github.io/posts/vim-vs-neovim/</loc>
     <lastmod>2021-07-15T13:10:41+05:30</lastmod>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/posts/using-github-actions-to-deploy-a-fastapi-project-to-heroku/</loc>
+    <loc>https://sanqitang.github.io/posts/using-github-actions-to-deploy-a-fastapi-project-to-heroku/</loc>
     <lastmod>2021-05-05T16:25:28+05:30</lastmod>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/posts/details-of-google-serverless-computing/</loc>
+    <loc>https://sanqitang.github.io/posts/details-of-google-serverless-computing/</loc>
     <lastmod>2021-04-19T10:50:28+05:30</lastmod>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/posts/blogging-with-hugo-as-an-wordpress-alternative/</loc>
+    <loc>https://sanqitang.github.io/posts/blogging-with-hugo-as-an-wordpress-alternative/</loc>
     <lastmod>2021-02-21T22:57:04+05:30</lastmod>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/posts/reviewing-popular-static-site-generators/</loc>
+    <loc>https://sanqitang.github.io/posts/reviewing-popular-static-site-generators/</loc>
     <lastmod>2021-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/posts/a-standard-ci-cd-pipeline-for-python-projects/</loc>
+    <loc>https://sanqitang.github.io/posts/a-standard-ci-cd-pipeline-for-python-projects/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/posts/customizing-windows-terminal-a-minimalist-approach/</loc>
+    <loc>https://sanqitang.github.io/posts/customizing-windows-terminal-a-minimalist-approach/</loc>
     <lastmod>2020-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/posts/ml-engineer-vs-data-scientists-who-should-you-choose/</loc>
+    <loc>https://sanqitang.github.io/posts/ml-engineer-vs-data-scientists-who-should-you-choose/</loc>
     <lastmod>2020-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/posts/treat-your-open-source-project-as-a-business/</loc>
+    <loc>https://sanqitang.github.io/posts/treat-your-open-source-project-as-a-business/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/posts/deep-learning-vs-traditional-techniques-a-comparison/</loc>
+    <loc>https://sanqitang.github.io/posts/deep-learning-vs-traditional-techniques-a-comparison/</loc>
     <lastmod>2020-08-13T23:46:37+00:00</lastmod>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/posts/unveiling-common-misconceptions-of-democratizing-data-science-machine-learning/</loc>
+    <loc>https://sanqitang.github.io/posts/unveiling-common-misconceptions-of-democratizing-data-science-machine-learning/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/posts/medium-vs-static-site-generators/</loc>
+    <loc>https://sanqitang.github.io/posts/medium-vs-static-site-generators/</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/posts/these-5-tips-should-help-you-with-your-startup-journey/</loc>
+    <loc>https://sanqitang.github.io/posts/these-5-tips-should-help-you-with-your-startup-journey/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/posts/the-second-most-important-skill-for-a-data-scientist/</loc>
+    <loc>https://sanqitang.github.io/posts/the-second-most-important-skill-for-a-data-scientist/</loc>
     <lastmod>2020-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/posts/few-reasons-to-not-drop-missing-values/</loc>
+    <loc>https://sanqitang.github.io/posts/few-reasons-to-not-drop-missing-values/</loc>
     <lastmod>2020-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/about/</loc>
+    <loc>https://sanqitang.github.io/about/</loc>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/blog/</loc>
+    <loc>https://sanqitang.github.io/blog/</loc>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/categories/</loc>
+    <loc>https://sanqitang.github.io/categories/</loc>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/collaborations/</loc>
+    <loc>https://sanqitang.github.io/collaborations/</loc>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/services/</loc>
+    <loc>https://sanqitang.github.io/services/</loc>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/privacy-policy/</loc>
+    <loc>https://sanqitang.github.io/privacy-policy/</loc>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/projects/</loc>
+    <loc>https://sanqitang.github.io/projects/</loc>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/tags/</loc>
+    <loc>https://sanqitang.github.io/tags/</loc>
   </url><url>
-    <loc>https://blog-papermod.netlify.app/terms-of-service-agreement/</loc>
+    <loc>https://sanqitang.github.io/terms-of-service-agreement/</loc>
   </url>
 </urlset>
