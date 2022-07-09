@@ -13,4 +13,4 @@ relative: false
 showtoc: true
 draft: true
 ---
-# This is a **sample post**
+# This is a Sample post
