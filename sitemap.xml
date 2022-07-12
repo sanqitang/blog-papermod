@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sanqitang.github.io/posts/create-custom-keymaps-in-neovim-using-lua/</loc>
-    <lastmod>2021-10-12T13:10:41+05:30</lastmod>
+    <loc>https://sanqitang.github.io/posts/my-first-post/</loc>
+    <lastmod>2022-07-07T15:49:05-07:00</lastmod>
   </url><url>
     <loc>https://sanqitang.github.io/posts/</loc>
-    <lastmod>2021-10-12T13:10:41+05:30</lastmod>
+    <lastmod>2022-07-07T15:49:05-07:00</lastmod>
   </url><url>
     <loc>https://sanqitang.github.io/</loc>
+    <lastmod>2022-07-07T15:49:05-07:00</lastmod>
+  </url><url>
+    <loc>https://sanqitang.github.io/posts/2022-07-05-a-sample-post/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanqitang.github.io/posts/create-custom-keymaps-in-neovim-using-lua/</loc>
     <lastmod>2021-10-12T13:10:41+05:30</lastmod>
   </url><url>
     <loc>https://sanqitang.github.io/posts/vim-vs-neovim/</loc>
