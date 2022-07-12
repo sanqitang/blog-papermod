@@ -11,6 +11,6 @@ cover:
   caption:
   relative: false
 showtoc: true
-draft: true
+draft: false
 ---
 #TEST
